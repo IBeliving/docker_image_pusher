@@ -1,2 +1,2 @@
-apache/rocketmq:4.9.3
-styletang/rocketmq-console-ng:1.0.0
+prom/prometheus:latest
+grafana/grafana:latest
