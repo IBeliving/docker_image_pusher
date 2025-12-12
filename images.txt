@@ -1,1 +1,1 @@
-justsong/one-api
+portainer/portainer:latest
