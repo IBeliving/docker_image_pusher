@@ -1,1 +1,3 @@
-jenkins/jenkins:2.528.3
+elasticsearch:7.16.2
+apache/skywalking-oap-server:8.9.0
+apache/skywalking-ui:8.9.0
