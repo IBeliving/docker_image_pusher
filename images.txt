@@ -1,1 +1,1 @@
-opendatalab/mineru:latest
+jianjungki/mineru:latest
